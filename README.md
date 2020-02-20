@@ -1,4 +1,4 @@
-shCode20 Qualifications
+HashCode20 Qualifications
 
 ### Problem statement: https://hashcodejudge.withgoogle.com/#/rounds/6313004828196864/
 
