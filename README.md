@@ -2,5 +2,5 @@ HashCode20 Qualifications
 
 ### Problem statement: https://hashcodejudge.withgoogle.com/#/rounds/6313004828196864/
 
-![Scores](https://drive.google.com/uc?export=view&id=1MuSFQi_CKBMHKNFZfO4M6QGGRL0iB7te "Scores")
+![Scores](https://user-images.githubusercontent.com/10338510/75062885-7f782880-5505-11ea-995f-90631756aaee.png "Scores")
 
